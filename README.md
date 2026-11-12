@@ -14,5 +14,3 @@ Power BI, Excel
 - Central region accounts for 55% of quantity sold
 - Quarterly orders grew from 119 (Q1 2017) to 427 (Q3 2020)
 
-## Dashboard
-![Dashboard](https://github.com/ASHA-07/DATA-ANALYSIS-PROJECTS/blob/main/POWERBI%20DASHBOARD.png)
