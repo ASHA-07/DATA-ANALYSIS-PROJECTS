@@ -15,4 +15,4 @@ Power BI, Excel
 - Quarterly orders grew from 119 (Q1 2017) to 427 (Q3 2020)
 
 ## Dashboard
-![Dashboard](dashboard.png)
+![Dashboard](https://github.com/ASHA-07/DATA-ANALYSIS-PROJECTS/blob/main/POWERBI%20DASHBOARD.png)
